@@ -1,0 +1,1108 @@
+Track 2 took 13.77 seconds to polish. 
+Track 2 took 11.77 seconds to polish. 
+Track 3 took 18.13 seconds to polish. 
+Track 4 took 20.18 seconds to polish. 
+Track 5 took 21.96 seconds to polish. 
+Track 6 took 21.24 seconds to polish. 
+Track 7 took 19.38 seconds to polish. 
+Track 8 took 18.38 seconds to polish. 
+Track 9 took 18.99 seconds to polish. 
+Track 10 took 20.44 seconds to polish. 
+Track 11 took 19.4 seconds to polish. 
+Track 12 took 17.69 seconds to polish. 
+Track 13 took 32.6 seconds to polish. 
+Track 2 took 22.91 seconds to polish. 
+Track 3 took 22.77 seconds to polish. 
+Track 4 took 21.77 seconds to polish. 
+Track 5 took 20.39 seconds to polish. 
+Track 6 took 20.72 seconds to polish. 
+Track 7 took 22.89 seconds to polish. 
+Track 8 took 22.83 seconds to polish. 
+Track 9 took 17.7 seconds to polish. 
+Track 10 took 17.63 seconds to polish. 
+Track 11 took 24.82 seconds to polish. 
+Track 12 took 24.91 seconds to polish. 
+Track 13 took 22.52 seconds to polish. 
+Track 14 took 78.44 seconds to polish. 
+Track 15 took 21.74 seconds to polish. 
+Track 16 took 18.85 seconds to polish. 
+Track 17 took 20.58 seconds to polish. 
+Track 18 took 22.87 seconds to polish. 
+Track 19 took 23.95 seconds to polish. 
+Track 20 took 20.96 seconds to polish. 
+Track 21 took 20.75 seconds to polish. 
+Track 22 took 23.01 seconds to polish. 
+Track 23 took 20.82 seconds to polish. 
+Track 24 took 20.3 seconds to polish. 
+Track 25 took 21.21 seconds to polish. 
+Track 26 took 19.96 seconds to polish. 
+Track 27 took 20.78 seconds to polish. 
+Track 28 took 22.68 seconds to polish. 
+Track 29 took 22.77 seconds to polish. 
+Track 30 took 22.17 seconds to polish. 
+Track 31 took 21.66 seconds to polish. 
+Track 32 took 22.27 seconds to polish. 
+Track 33 took 23.03 seconds to polish. 
+Track 34 took 18.36 seconds to polish. 
+Track 35 took 20.73 seconds to polish. 
+Track 36 took 21.79 seconds to polish. 
+Track 37 took 22.83 seconds to polish. 
+Track 38 took 21.58 seconds to polish. 
+Track 39 took 21.29 seconds to polish. 
+Track 40 took 22.97 seconds to polish. 
+Track 41 took 23.33 seconds to polish. 
+Track 42 took 18.61 seconds to polish. 
+Track 43 took 21.39 seconds to polish. 
+Track 44 took 21.75 seconds to polish. 
+Track 45 took 22.83 seconds to polish. 
+Track 46 took 22.64 seconds to polish. 
+Track 47 took 22.12 seconds to polish. 
+Track 48 took 17.61 seconds to polish. 
+Track 49 took 22.1 seconds to polish. 
+Track 50 took 71.88 seconds to polish. 
+Track 51 took 47.64 seconds to polish. 
+Track 52 took 18.06 seconds to polish. 
+Track 53 took 19.84 seconds to polish. 
+Track 54 took 19.61 seconds to polish. 
+Track 55 took 23.07 seconds to polish. 
+Track 56 took 19.87 seconds to polish. 
+Track log started at 2017-09-01 07:51:10
+Track log started at 2017-09-01 08:55:42
+Track log started at 2017-09-04 23:22:46
+Track 1 took 4.11 seconds to polish. 
+Track 2 took 4.16 seconds to polish. 
+Track 3 took 4.25 seconds to polish. 
+Track log started at 2017-09-06 12:16:47
+Track log started at 2017-09-06 12:21:36
+Track log started at 2017-09-07 19:14:24
+Track log started at 2017-09-11 11:53:47
+Track log started at 2017-09-11 13:37:18
+Track log started at 2017-09-11 13:40:10
+Track log started at 2017-09-13 06:59:41
+Track log started at 2017-09-13 09:46:36
+Track log started at 2017-09-13 10:51:11
+Track 1 took 23.66 seconds to polish. 
+Track 2 took 28.69 seconds to polish. 
+Track 3 took 27.92 seconds to polish. 
+Track 4 took 26.37 seconds to polish. 
+Track 5 took 25.78 seconds to polish. 
+Track 6 took 26.71 seconds to polish. 
+Track 7 took 24.59 seconds to polish. 
+Track 8 took 23.5 seconds to polish. 
+Track 9 took 25.04 seconds to polish. 
+Track 10 took 28.52 seconds to polish. 
+Track 11 took 23.12 seconds to polish. 
+Track 12 took 24.26 seconds to polish. 
+Track 13 took 22.88 seconds to polish. 
+Track 14 took 23.13 seconds to polish. 
+Track 15 took 88.6 seconds to polish. 
+Track 16 took 27.85 seconds to polish. 
+Track 17 took 34.52 seconds to polish. 
+Track 18 took 27.17 seconds to polish. 
+Track 19 took 26.29 seconds to polish. 
+Track 20 took 62.05 seconds to polish. 
+Track 21 took 31.25 seconds to polish. 
+Track 22 took 24.43 seconds to polish. 
+Track 23 took 24.17 seconds to polish. 
+Track 24 took 24.11 seconds to polish. 
+Track 25 took 32.36 seconds to polish. 
+Track 26 took 27.78 seconds to polish. 
+Track 27 took 23.66 seconds to polish. 
+Track 28 took 27.89 seconds to polish. 
+Track 29 took 27.64 seconds to polish. 
+Track 30 took 25.24 seconds to polish. 
+Track 31 took 30.27 seconds to polish. 
+Track 32 took 23.34 seconds to polish. 
+Track 33 took 6.14 seconds to polish. 
+Track 34 took 23.0 seconds to polish. 
+Track 35 took 5.46 seconds to polish. 
+Track 36 took 23.32 seconds to polish. 
+Track 37 took 24.24 seconds to polish. 
+Track 38 took 26.08 seconds to polish. 
+Track 39 took 24.31 seconds to polish. 
+Track 40 took 25.97 seconds to polish. 
+Track 41 took 22.75 seconds to polish. 
+Track 42 took 28.43 seconds to polish. 
+Track log started at 2017-09-13 11:53:31
+Track 2 took 28.57 seconds to polish. 
+Track 3 took 0.0 seconds to polish. 
+Track 4 took 34.24 seconds to polish. 
+Track 5 took 25.73 seconds to polish. 
+Track 6 took 0.0 seconds to polish. 
+Track 7 took 29.04 seconds to polish. 
+Track 8 took 22.31 seconds to polish. 
+Track 9 took 70.77 seconds to polish. 
+Track 10 took 26.27 seconds to polish. 
+Track 11 took 26.76 seconds to polish. 
+Track 12 took 20.72 seconds to polish. 
+Track 13 took 21.37 seconds to polish. 
+Track 14 took 24.49 seconds to polish. 
+Track 15 took 23.69 seconds to polish. 
+Track 16 took 23.49 seconds to polish. 
+Track 17 took 0.0 seconds to polish. 
+Track 18 took 23.27 seconds to polish. 
+Track 19 took 23.72 seconds to polish. 
+Track 20 took 21.71 seconds to polish. 
+Track 21 took 28.66 seconds to polish. 
+Track 22 took 0.0 seconds to polish. 
+Track 23 took 22.67 seconds to polish. 
+Track 24 took 0.0 seconds to polish. 
+Track 25 took 27.51 seconds to polish. 
+Track 26 took 22.14 seconds to polish. 
+Track 27 took 26.49 seconds to polish. 
+Track 28 took 0.0 seconds to polish. 
+Track 29 took 22.71 seconds to polish. 
+Track 30 took 20.41 seconds to polish. 
+Track 31 took 0.0 seconds to polish. 
+Track 32 took 20.33 seconds to polish. 
+Track 33 took 6.06 seconds to polish. 
+Track 34 took 81.86 seconds to polish. 
+Track 35 took 0.0 seconds to polish. 
+Track 36 took 23.5 seconds to polish. 
+Track 37 took 23.71 seconds to polish. 
+Track 38 took 22.61 seconds to polish. 
+Track 39 took 25.51 seconds to polish. 
+Track 40 took 23.8 seconds to polish. 
+Track 41 took 21.82 seconds to polish. 
+Track 42 took 20.67 seconds to polish. 
+Track 43 took 0.0 seconds to polish. 
+Track 44 took 22.06 seconds to polish. 
+Track 45 took 24.26 seconds to polish. 
+Track 46 took 22.26 seconds to polish. 
+Track 47 took 5.33 seconds to polish. 
+Track 48 took 21.34 seconds to polish. 
+Track 49 took 23.25 seconds to polish. 
+Track 50 took 21.53 seconds to polish. 
+Track 51 took 25.21 seconds to polish. 
+Track 52 took 24.68 seconds to polish. 
+Track 53 took 23.21 seconds to polish. 
+Track 54 took 27.14 seconds to polish. 
+Track 55 took 93.59 seconds to polish. 
+Track 56 took 25.43 seconds to polish. 
+Track 57 took 22.87 seconds to polish. 
+Track 58 took 0.0 seconds to polish. 
+Track 59 took 53.51 seconds to polish. 
+Track 60 took 19.87 seconds to polish. 
+Track 61 took 21.35 seconds to polish. 
+Track 62 took 21.32 seconds to polish. 
+Track 63 took 0.0 seconds to polish. 
+Track 64 took 28.49 seconds to polish. 
+Track 65 took 27.58 seconds to polish. 
+Track 66 took 24.43 seconds to polish. 
+Track 67 took 0.0 seconds to polish. 
+Track 68 took 21.2 seconds to polish. 
+Track 69 took 22.12 seconds to polish. 
+Track 70 took 23.83 seconds to polish. 
+Track log started at 2017-09-14 08:13:34
+
+Track log started at 2017-09-18 09:09:56
+Track log started at 2017-09-18 09:10:56
+2017-09-18 09:22:34 Track 2 took 26.5 seconds to polish. 
+2017-09-18 09:23:10 Track 3 took 20.61 seconds to polish. 
+2017-09-18 09:23:40 Track 4 took 20.19 seconds to polish. 
+2017-09-18 09:24:30 Track 5 took 23.03 seconds to polish. 
+2017-09-18 09:25:45 Track 6 took 23.38 seconds to polish. 
+2017-09-18 09:26:28 Track 7 took 17.66 seconds to polish. 
+2017-09-18 09:26:34 Track 8 took 5.33 seconds to polish. 
+2017-09-18 09:26:58 Track 9 took 18.54 seconds to polish. 
+2017-09-18 09:27:54 Track 10 took 21.28 seconds to polish. 
+2017-09-18 09:28:01 Track 11 took 0.0 seconds to polish. 
+2017-09-18 09:28:22 Track 12 took 20.98 seconds to polish. 
+2017-09-18 09:28:52 Track 13 took 22.81 seconds to polish. 
+2017-09-18 09:29:50 Track 14 took 12.41 seconds to polish. 
+2017-09-18 09:30:19 Track 15 took 15.99 seconds to polish. 
+2017-09-18 09:30:57 Track 16 took 21.83 seconds to polish. 
+2017-09-18 09:31:49 Track 17 took 18.56 seconds to polish. 
+2017-09-18 09:32:20 Track 18 took 21.78 seconds to polish. 
+2017-09-18 09:32:52 Track 19 took 23.14 seconds to polish. 
+2017-09-18 09:33:52 Track 20 took 24.05 seconds to polish. 
+2017-09-18 09:34:21 Track 21 took 24.49 seconds to polish. 
+2017-09-18 09:34:50 Track 22 took 23.53 seconds to polish. 
+2017-09-18 09:35:29 Track 23 took 22.91 seconds to polish. 
+2017-09-18 09:35:55 Track 24 took 20.12 seconds to polish. 
+2017-09-18 09:36:28 Track 25 took 23.78 seconds to polish. 
+2017-09-18 09:37:08 Track 26 took 21.03 seconds to polish. 
+2017-09-18 09:37:39 Track 27 took 23.52 seconds to polish. 
+2017-09-18 09:38:09 Track 28 took 24.89 seconds to polish. 
+2017-09-18 09:38:38 Track 29 took 19.57 seconds to polish. 
+2017-09-18 09:39:10 Track 30 took 23.35 seconds to polish. 
+2017-09-18 09:39:40 Track 31 took 17.03 seconds to polish. 
+2017-09-18 09:40:11 Track 32 took 21.76 seconds to polish. 
+2017-09-18 09:40:40 Track 33 took 22.86 seconds to polish. 
+2017-09-18 09:41:06 Track 34 took 19.23 seconds to polish. 
+2017-09-18 09:41:52 Track 35 took 13.11 seconds to polish. 
+2017-09-18 09:41:57 Track 36 took 0.0 seconds to polish. 
+2017-09-18 09:42:16 Track 37 took 18.33 seconds to polish. 
+2017-09-18 09:42:45 Track 38 took 18.24 seconds to polish. 
+2017-09-18 09:43:23 Track 39 took 21.39 seconds to polish. 
+2017-09-18 09:43:51 Track 40 took 14.11 seconds to polish. 
+2017-09-18 09:44:26 Track 41 took 23.38 seconds to polish. 
+2017-09-18 09:44:58 Track 42 took 21.6 seconds to polish. 
+2017-09-18 09:45:24 Track 43 took 19.03 seconds to polish. 
+2017-09-18 09:45:56 Track 44 took 23.69 seconds to polish. 
+2017-09-18 09:46:28 Track 45 took 24.04 seconds to polish. 
+2017-09-18 09:46:59 Track 46 took 25.05 seconds to polish. 
+2017-09-18 09:47:23 Track 47 took 18.63 seconds to polish. 
+2017-09-18 09:47:54 Track 48 took 18.36 seconds to polish. 
+2017-09-18 09:48:27 Track 49 took 23.21 seconds to polish. 
+2017-09-18 09:48:57 Track 50 took 24.28 seconds to polish. 
+2017-09-18 09:49:29 Track 51 took 19.64 seconds to polish. 
+2017-09-18 09:49:56 Track 52 took 19.22 seconds to polish. 
+2017-09-18 09:50:32 Track 53 took 25.66 seconds to polish. 
+2017-09-18 09:51:04 Track 54 took 16.13 seconds to polish. 
+2017-09-18 09:51:28 Track 55 took 17.87 seconds to polish. 
+2017-09-18 09:51:38 Track 56 took 0.0 seconds to polish. 
+2017-09-18 09:52:01 Track 57 took 22.71 seconds to polish. 
+2017-09-18 09:52:40 Track 58 took 23.38 seconds to polish. 
+2017-09-18 09:53:03 Track 59 took 18.0 seconds to polish. 
+2017-09-18 09:53:47 Track 60 took 27.32 seconds to polish. 
+2017-09-18 09:53:49 Track 61 took 0.0 seconds to polish. 
+2017-09-18 09:54:09 Track 62 took 19.49 seconds to polish. 
+2017-09-18 09:54:35 Track 63 took 18.44 seconds to polish. 
+2017-09-18 09:55:12 Track 64 took 25.57 seconds to polish. 
+2017-09-18 09:55:39 Track 65 took 18.88 seconds to polish. 
+2017-09-18 09:56:10 Track 66 took 19.56 seconds to polish. 
+2017-09-18 09:56:34 Track 67 took 17.87 seconds to polish. 
+2017-09-18 09:57:13 Track 68 took 22.67 seconds to polish. 
+2017-09-18 09:57:39 Track 69 took 18.14 seconds to polish. 
+2017-09-18 09:58:08 Track 70 took 21.73 seconds to polish. 
+2017-09-18 09:58:46 Track 71 took 23.6 seconds to polish. 
+2017-09-18 09:59:13 Track 72 took 22.91 seconds to polish. 
+2017-09-18 09:59:49 Track 73 took 28.07 seconds to polish. 
+2017-09-18 10:00:22 Track 74 took 21.1 seconds to polish. 
+2017-09-18 10:00:47 Track 75 took 18.92 seconds to polish. 
+2017-09-18 10:01:16 Track 76 took 17.1 seconds to polish. 
+2017-09-18 10:01:52 Track 77 took 18.24 seconds to polish. 
+2017-09-18 10:02:21 Track 78 took 23.57 seconds to polish. 
+2017-09-18 10:02:47 Track 79 took 20.94 seconds to polish. 
+2017-09-18 10:03:20 Track 80 took 23.88 seconds to polish. 
+2017-09-18 10:03:44 Track 81 took 17.93 seconds to polish. 
+2017-09-18 10:04:14 Track 82 took 23.36 seconds to polish. 
+2017-09-18 10:05:00 Track 83 took 19.86 seconds to polish. 
+2017-09-18 10:05:27 Track 84 took 19.19 seconds to polish. 
+2017-09-18 10:05:56 Track 85 took 21.31 seconds to polish. 
+2017-09-18 10:06:05 Track 86 took 0.0 seconds to polish. 
+2017-09-18 10:06:23 Track 87 took 17.92 seconds to polish. 
+2017-09-18 10:06:55 Track 88 took 21.3 seconds to polish. 
+2017-09-18 10:07:22 Track 89 took 21.72 seconds to polish. 
+2017-09-18 10:07:56 Track 90 took 22.41 seconds to polish. 
+2017-09-18 10:08:22 Track 91 took 19.31 seconds to polish. 
+2017-09-18 10:08:57 Track 92 took 20.64 seconds to polish. 
+2017-09-18 10:09:23 Track 93 took 20.34 seconds to polish. 
+2017-09-18 10:09:51 Track 94 took 18.42 seconds to polish. 
+2017-09-18 10:10:17 Track 95 took 19.6 seconds to polish. 
+2017-09-18 10:10:52 Track 96 took 22.25 seconds to polish. 
+2017-09-18 10:11:15 Track 97 took 18.92 seconds to polish. 
+2017-09-18 10:11:47 Track 98 took 23.26 seconds to polish. 
+2017-09-18 10:12:22 Track 99 took 19.49 seconds to polish. 
+2017-09-18 10:12:50 Track 100 took 19.36 seconds to polish. 
+2017-09-18 10:13:17 Track 101 took 19.37 seconds to polish. 
+2017-09-18 10:13:52 Track 102 took 21.0 seconds to polish. 
+2017-09-18 10:14:19 Track 103 took 18.95 seconds to polish. 
+2017-09-18 10:14:51 Track 104 took 25.11 seconds to polish. 
+2017-09-18 10:15:23 Track 105 took 20.38 seconds to polish. 
+2017-09-18 10:40:03 Track 106 took 19.19 seconds to polish. 
+2017-09-18 10:40:34 Track 107 took 18.03 seconds to polish. 
+2017-09-18 10:41:04 Track 108 took 17.16 seconds to polish. 
+2017-09-18 10:41:30 Track 109 took 17.1 seconds to polish. 
+2017-09-18 10:41:57 Track 110 took 16.74 seconds to polish. 
+2017-09-18 10:42:35 Track 111 took 21.91 seconds to polish. 
+2017-09-18 10:42:40 Track 112 took 0.0 seconds to polish. 
+2017-09-18 10:43:04 Track 113 took 23.48 seconds to polish. 
+2017-09-18 10:43:27 Track 114 took 17.48 seconds to polish. 
+2017-09-18 10:43:43 Track 115 took 0.0 seconds to polish. 
+2017-09-18 10:44:02 Track 116 took 19.34 seconds to polish. 
+2017-09-18 10:44:32 Track 117 took 19.65 seconds to polish. 
+2017-09-18 10:45:14 Track 118 took 19.05 seconds to polish. 
+2017-09-18 10:45:52 Track 119 took 25.22 seconds to polish. 
+2017-09-18 10:46:15 Track 120 took 19.54 seconds to polish. 
+2017-09-18 10:47:07 Track 121 took 23.42 seconds to polish. 
+2017-09-18 10:47:44 Track 122 took 0.0 seconds to polish. 
+2017-09-18 10:48:03 Track 123 took 18.88 seconds to polish. 
+2017-09-18 10:48:34 Track 124 took 0.0 seconds to polish. 
+2017-09-18 10:48:57 Track 125 took 23.33 seconds to polish. 
+2017-09-18 10:49:23 Track 126 took 19.3 seconds to polish. 
+2017-09-18 10:49:51 Track 127 took 20.64 seconds to polish. 
+2017-09-18 10:50:35 Track 128 took 23.36 seconds to polish. 
+2017-09-18 10:50:58 Track 129 took 17.57 seconds to polish. 
+2017-09-18 10:51:28 Track 130 took 20.07 seconds to polish. 
+2017-09-18 10:51:57 Track 131 took 18.19 seconds to polish. 
+2017-09-18 10:52:25 Track 132 took 17.24 seconds to polish. 
+2017-09-18 10:52:54 Track 133 took 16.64 seconds to polish. 
+2017-09-18 10:53:57 Track 134 took 46.9 seconds to polish. 
+2017-09-18 10:54:21 Track 135 took 19.17 seconds to polish. 
+2017-09-18 10:55:31 Track 136 took 24.44 seconds to polish. 
+2017-09-18 10:56:01 Track 137 took 20.27 seconds to polish. 
+2017-09-18 10:57:01 Track 138 took 54.64 seconds to polish. 
+2017-09-18 10:57:31 Track 139 took 24.69 seconds to polish. 
+2017-09-18 10:57:59 Track 140 took 24.27 seconds to polish. 
+2017-09-18 10:58:07 Track 141 took 0.0 seconds to polish. 
+2017-09-18 10:58:27 Track 142 took 20.33 seconds to polish. 
+2017-09-18 10:59:00 Track 143 took 26.35 seconds to polish. 
+Track log started at 2017-09-20 11:38:50
+Track log started at 2017-09-25 07:09:38
+Track log started at 2017-09-28 16:11:18
+2017-10-02 14:41:31 Track 2 took 5.81 seconds to polish. 
+2017-10-02 14:46:27 Track 3 took 5.55 seconds to polish. 
+2017-10-02 14:46:34 Track 4 took 5.31 seconds to polish. 
+2017-10-02 14:47:09 Track 5 took 34.11 seconds to polish. 
+2017-10-02 14:53:42 Track 6 took 62.3 seconds to polish. 
+2017-10-02 14:55:16 Track 7 took 5.48 seconds to polish. 
+2017-10-02 14:56:23 Track 8 took 32.25 seconds to polish. 
+2017-10-02 14:56:53 Track 9 took 0.0 seconds to polish. 
+2017-10-02 14:57:00 Track 10 took 6.72 seconds to polish. 
+2017-10-02 14:57:13 Track 11 took 11.16 seconds to polish. 
+2017-10-02 14:57:19 Track 12 took 5.17 seconds to polish. 
+2017-10-02 14:57:42 Track 13 took 13.63 seconds to polish. 
+2017-10-02 14:58:54 Track 14 took 5.22 seconds to polish. 
+2017-10-02 14:59:04 Track 15 took 5.42 seconds to polish. 
+2017-10-02 14:59:27 Track 16 took 22.42 seconds to polish. 
+2017-10-02 15:00:01 Track 17 took 24.38 seconds to polish. 
+2017-10-02 15:00:09 Track 18 took 5.77 seconds to polish. 
+2017-10-02 15:00:16 Track 19 took 6.22 seconds to polish. 
+2017-10-02 15:00:29 Track 20 took 11.1 seconds to polish. 
+2017-10-02 15:01:02 Track 21 took 11.56 seconds to polish. 
+2017-10-02 15:01:09 Track 22 took 5.56 seconds to polish. 
+2017-10-02 15:06:06 Track 23 took 75.6 seconds to polish. 
+2017-10-03 08:48:22 Track 24 took 52.8 seconds to polish. 
+2017-10-03 08:51:27 Track 25 took 25.61 seconds to polish. 
+2017-10-03 08:52:14 Track 26 took 27.66 seconds to polish. 
+2017-10-03 08:52:44 Track 27 took 24.22 seconds to polish. 
+2017-10-03 08:53:22 Track 28 took 25.42 seconds to polish. 
+2017-10-03 08:53:52 Track 29 took 23.96 seconds to polish. 
+2017-10-03 08:54:28 Track 30 took 27.05 seconds to polish. 
+2017-10-03 08:55:12 Track 31 took 28.86 seconds to polish. 
+2017-10-03 08:55:46 Track 32 took 25.52 seconds to polish. 
+2017-10-03 08:56:25 Track 33 took 23.86 seconds to polish. 
+2017-10-03 08:57:54 Track 34 took 72.9 seconds to polish. 
+2017-10-03 08:58:56 Track 35 took 27.36 seconds to polish. 
+2017-10-03 09:01:00 Track 36 took 28.94 seconds to polish. 
+2017-10-03 09:01:34 Track 37 took 29.6 seconds to polish. 
+2017-10-03 09:02:04 Track 38 took 23.67 seconds to polish. 
+2017-10-03 09:03:09 Track 39 took 29.64 seconds to polish. 
+2017-10-03 09:03:35 Track 40 took 23.92 seconds to polish. 
+2017-10-03 09:04:09 Track 41 took 24.57 seconds to polish. 
+2017-10-03 09:04:45 Track 42 took 28.35 seconds to polish. 
+2017-10-03 09:05:44 Track 43 took 30.02 seconds to polish. 
+2017-10-03 09:06:18 Track 44 took 28.68 seconds to polish. 
+2017-10-03 09:06:50 Track 45 took 27.22 seconds to polish. 
+2017-10-03 09:07:22 Track 46 took 27.25 seconds to polish. 
+2017-10-03 09:07:54 Track 47 took 26.64 seconds to polish. 
+2017-10-03 09:08:28 Track 48 took 28.08 seconds to polish. 
+2017-10-03 09:08:59 Track 49 took 27.25 seconds to polish. 
+2017-10-03 09:09:38 Track 50 took 23.28 seconds to polish. 
+2017-10-03 09:10:16 Track 51 took 27.03 seconds to polish. 
+2017-10-03 09:10:49 Track 52 took 27.24 seconds to polish. 
+2017-10-03 09:11:21 Track 53 took 27.52 seconds to polish. 
+2017-10-03 09:11:59 Track 54 took 31.28 seconds to polish. 
+2017-10-03 09:12:27 Track 55 took 27.68 seconds to polish. 
+2017-10-03 09:12:58 Track 56 took 25.6 seconds to polish. 
+2017-10-03 09:13:29 Track 57 took 24.91 seconds to polish. 
+2017-10-03 09:14:01 Track 58 took 25.21 seconds to polish. 
+2017-10-03 09:14:34 Track 59 took 26.02 seconds to polish. 
+2017-10-03 09:15:09 Track 60 took 27.66 seconds to polish. 
+2017-10-03 09:15:40 Track 61 took 26.24 seconds to polish. 
+2017-10-03 09:16:15 Track 62 took 29.97 seconds to polish. 
+2017-10-03 09:17:14 Track 63 took 57.37 seconds to polish. 
+2017-10-04 14:48:35 Track 64 took 29.11 seconds to polish. 
+2017-10-04 14:49:06 Track 65 took 25.19 seconds to polish. 
+2017-10-04 14:49:42 Track 66 took 27.71 seconds to polish. 
+2017-10-04 14:50:15 Track 67 took 29.02 seconds to polish. 
+2017-10-04 14:50:42 Track 68 took 23.35 seconds to polish. 
+2017-10-04 14:51:20 Track 69 took 23.28 seconds to polish. 
+2017-10-04 14:51:26 Track 70 took 5.78 seconds to polish. 
+2017-10-04 14:51:57 Track 71 took 27.25 seconds to polish. 
+2017-10-04 14:52:30 Track 72 took 28.19 seconds to polish. 
+2017-10-04 14:53:01 Track 73 took 27.08 seconds to polish. 
+2017-10-04 14:53:33 Track 74 took 24.05 seconds to polish. 
+2017-10-04 14:54:10 Track 75 took 28.83 seconds to polish. 
+2017-10-04 14:55:11 Track 76 took 58.4 seconds to polish. 
+2017-10-04 14:56:15 Track 77 took 58.23 seconds to polish. 
+2017-10-04 14:56:45 Track 78 took 23.32 seconds to polish. 
+2017-10-04 14:57:26 Track 79 took 30.72 seconds to polish. 
+2017-10-04 14:57:57 Track 80 took 29.27 seconds to polish. 
+2017-10-04 14:58:27 Track 81 took 28.22 seconds to polish. 
+2017-10-04 14:58:59 Track 82 took 27.46 seconds to polish. 
+2017-10-04 14:59:31 Track 83 took 26.5 seconds to polish. 
+2017-10-04 15:00:05 Track 84 took 27.78 seconds to polish. 
+2017-10-04 15:00:34 Track 85 took 24.42 seconds to polish. 
+2017-10-04 15:01:09 Track 86 took 27.19 seconds to polish. 
+2017-10-04 15:01:41 Track 87 took 26.25 seconds to polish. 
+2017-10-04 15:09:36 Track 88 took 23.08 seconds to polish. 
+2017-10-04 15:10:13 Track 89 took 27.33 seconds to polish. 
+2017-10-04 15:10:40 Track 90 took 23.0 seconds to polish. 
+2017-10-04 15:11:16 Track 91 took 28.24 seconds to polish. 
+2017-10-04 15:11:47 Track 92 took 27.88 seconds to polish. 
+2017-10-04 15:12:13 Track 93 took 23.33 seconds to polish. 
+2017-10-04 15:12:50 Track 94 took 26.17 seconds to polish. 
+2017-10-04 15:13:23 Track 95 took 27.82 seconds to polish. 
+2017-10-04 15:13:52 Track 96 took 25.52 seconds to polish. 
+2017-10-04 15:14:21 Track 97 took 25.19 seconds to polish. 
+2017-10-04 15:14:52 Track 98 took 24.64 seconds to polish. 
+2017-10-04 15:15:23 Track 99 took 25.8 seconds to polish. 
+2017-10-04 15:16:11 Track 100 took 24.5 seconds to polish. 
+2017-10-04 15:16:39 Track 101 took 23.82 seconds to polish. 
+2017-10-04 15:17:15 Track 102 took 29.14 seconds to polish. 
+2017-10-04 15:17:43 Track 103 took 25.94 seconds to polish. 
+2017-10-04 15:18:15 Track 104 took 24.55 seconds to polish. 
+2017-10-04 15:18:41 Track 105 took 20.17 seconds to polish. 
+2017-10-11 09:43:07 Track 106 took 23.44 seconds to polish. 
+2017-10-11 09:43:40 Track 107 took 32.54 seconds to polish. 
+2017-10-11 09:47:08 Track 108 took 57.66 seconds to polish. 
+2017-10-11 09:47:41 Track 109 took 27.24 seconds to polish. 
+2017-10-11 09:49:12 Track 110 took 60.05 seconds to polish. 
+2017-10-11 09:49:47 Track 111 took 29.36 seconds to polish. 
+2017-10-11 09:50:24 Track 112 took 28.38 seconds to polish. 
+2017-10-11 09:50:54 Track 113 took 24.89 seconds to polish. 
+2017-10-11 09:51:38 Track 114 took 27.91 seconds to polish. 
+2017-10-11 09:52:11 Track 115 took 28.57 seconds to polish. 
+2017-10-11 09:52:40 Track 116 took 24.66 seconds to polish. 
+2017-10-11 09:52:45 Track 117 took 5.55 seconds to polish. 
+2017-10-11 09:53:21 Track 118 took 28.72 seconds to polish. 
+2017-10-11 09:53:54 Track 119 took 29.18 seconds to polish. 
+2017-10-11 09:54:25 Track 120 took 28.66 seconds to polish. 
+2017-10-11 09:54:57 Track 121 took 27.88 seconds to polish. 
+2017-10-11 09:56:01 Track 122 took 60.05 seconds to polish. 
+2017-10-11 09:56:34 Track 123 took 28.55 seconds to polish. 
+2017-10-11 09:57:01 Track 124 took 24.11 seconds to polish. 
+2017-10-11 09:57:47 Track 125 took 37.93 seconds to polish. 
+2017-10-11 09:58:57 Track 126 took 62.1 seconds to polish. 
+2017-10-11 09:59:30 Track 127 took 29.38 seconds to polish. 
+2017-10-11 09:59:57 Track 128 took 24.42 seconds to polish. 
+2017-10-11 10:00:29 Track 129 took 23.97 seconds to polish. 
+2017-10-11 10:01:08 Track 130 took 29.64 seconds to polish. 
+2017-10-11 10:01:39 Track 131 took 28.66 seconds to polish. 
+2017-10-11 10:02:14 Track 132 took 29.29 seconds to polish. 
+2017-10-11 10:02:45 Track 133 took 28.24 seconds to polish. 
+2017-10-11 10:03:14 Track 134 took 23.99 seconds to polish. 
+2017-10-11 10:04:31 Track 135 took 24.1 seconds to polish. 
+2017-10-11 10:05:05 Track 136 took 25.82 seconds to polish. 
+2017-10-11 10:05:35 Track 137 took 23.58 seconds to polish. 
+2017-10-11 10:06:12 Track 138 took 29.24 seconds to polish. 
+2017-10-11 10:09:59 Track 139 took 23.75 seconds to polish. 
+2017-10-11 10:12:05 Track 140 took 23.5 seconds to polish. 
+2017-10-11 10:12:10 Track 141 took 5.3 seconds to polish. 
+2017-10-11 10:12:39 Track 142 took 23.16 seconds to polish. 
+2017-10-11 10:12:45 Track 143 took 6.5 seconds to polish. 
+2017-10-11 10:13:14 Track 144 took 24.49 seconds to polish. 
+2017-10-11 10:14:17 Track 145 took 58.59 seconds to polish. 
+2017-10-11 10:14:55 Track 146 took 23.44 seconds to polish. 
+2017-10-11 10:15:05 Track 147 took 5.55 seconds to polish. 
+2017-10-11 10:44:03 Track 148 took 8.75 seconds to polish. 
+2017-10-11 10:49:17 Track 149 took 5.34 seconds to polish. 
+2017-10-11 10:49:24 Track 150 took 6.06 seconds to polish. 
+2017-10-11 10:59:29 Track 151 took 5.22 seconds to polish. 
+2017-10-11 10:59:35 Track 152 took 6.2 seconds to polish. 
+2017-10-11 11:00:19 Track 153 took 41.63 seconds to polish. 
+2017-10-11 11:00:50 Track 154 took 30.86 seconds to polish. 
+2017-10-11 11:00:58 Track 155 took 5.53 seconds to polish. 
+2017-10-11 11:01:10 Track 156 took 5.34 seconds to polish. 
+2017-10-11 11:01:19 Track 157 took 6.58 seconds to polish. 
+2017-10-11 11:01:31 Track 158 took 12.44 seconds to polish. 
+2017-10-11 11:01:41 Track 159 took 5.95 seconds to polish. 
+2017-10-11 11:01:50 Track 160 took 6.36 seconds to polish. 
+2017-10-11 11:01:57 Track 161 took 6.0 seconds to polish. 
+2017-10-11 11:02:12 Track 162 took 5.91 seconds to polish. 
+2017-10-11 11:02:38 Track 163 took 17.41 seconds to polish. 
+2017-10-11 11:02:46 Track 164 took 5.47 seconds to polish. 
+2017-10-11 11:02:57 Track 165 took 6.22 seconds to polish. 
+2017-10-11 11:03:07 Track 166 took 10.42 seconds to polish. 
+2017-10-11 11:03:20 Track 167 took 7.52 seconds to polish. 
+2017-10-11 11:03:38 Track 168 took 16.69 seconds to polish. 
+2017-10-11 11:03:53 Track 169 took 6.17 seconds to polish. 
+2017-10-11 11:04:05 Track 170 took 11.52 seconds to polish. 
+2017-10-11 11:04:15 Track 171 took 5.66 seconds to polish. 
+2017-10-11 11:04:20 Track 172 took 5.0 seconds to polish. 
+2017-10-11 11:05:06 Track 173 took 10.81 seconds to polish. 
+2017-10-11 11:05:15 Track 174 took 6.63 seconds to polish. 
+2017-10-11 11:05:26 Track 175 took 0.0 seconds to polish. 
+2017-10-11 11:05:41 Track 176 took 7.77 seconds to polish. 
+2017-10-11 11:06:01 Track 177 took 18.78 seconds to polish. 
+2017-10-11 11:06:12 Track 178 took 10.88 seconds to polish. 
+2017-10-11 11:06:21 Track 179 took 5.06 seconds to polish. 
+2017-10-11 11:06:27 Track 180 took 5.39 seconds to polish. 
+2017-10-11 11:06:35 Track 181 took 5.95 seconds to polish. 
+2017-10-11 11:06:41 Track 182 took 5.31 seconds to polish. 
+2017-10-11 11:07:09 Track 183 took 24.07 seconds to polish. 
+2017-10-11 11:07:57 Track 184 took 27.21 seconds to polish. 
+2017-10-11 11:08:03 Track 185 took 5.0 seconds to polish. 
+2017-10-11 11:10:12 Track 186 took 47.27 seconds to polish. 
+2017-10-11 11:11:15 Track 187 took 18.83 seconds to polish. 
+2017-10-11 11:15:13 Track 188 took 7.75 seconds to polish. 
+2017-10-11 11:42:47 Track 189 took 20.44 seconds to polish. 
+2017-10-11 11:46:00 Track 190 took 6.14 seconds to polish. 
+2017-10-11 11:47:49 Track 191 took 95.11 seconds to polish. 
+2017-10-11 11:48:27 Track 192 took 5.72 seconds to polish. 
+2017-10-11 11:48:50 Track 193 took 9.03 seconds to polish. 
+2017-10-11 11:51:29 Track 194 took 5.74 seconds to polish. 
+2017-10-11 11:51:48 Track 195 took 5.56 seconds to polish. 
+2017-10-11 11:51:57 Track 196 took 5.66 seconds to polish. 
+2017-10-11 11:52:16 Track 197 took 5.06 seconds to polish. 
+2017-10-11 11:52:30 Track 198 took 5.3 seconds to polish. 
+2017-10-11 11:52:49 Track 199 took 6.24 seconds to polish. 
+2017-10-11 11:52:59 Track 200 took 5.09 seconds to polish. 
+2017-10-11 11:53:19 Track 201 took 5.31 seconds to polish. 
+2017-10-11 11:53:46 Track 202 took 21.5 seconds to polish. 
+2017-10-11 11:54:02 Track 203 took 5.33 seconds to polish. 
+2017-10-11 11:54:21 Track 204 took 5.09 seconds to polish. 
+2017-10-11 11:54:59 Track 205 took 5.41 seconds to polish. 
+2017-10-11 11:55:19 Track 206 took 5.81 seconds to polish. 
+2017-10-11 11:55:32 Track 207 took 5.19 seconds to polish. 
+2017-10-11 11:55:51 Track 208 took 5.09 seconds to polish. 
+2017-10-11 11:56:25 Track 209 took 24.99 seconds to polish. 
+2017-10-11 11:56:50 Track 210 took 21.52 seconds to polish. 
+2017-10-11 11:57:35 Track 211 took 5.95 seconds to polish. 
+2017-10-11 11:57:53 Track 212 took 5.56 seconds to polish. 
+2017-10-11 11:58:07 Track 213 took 5.52 seconds to polish. 
+2017-10-11 11:58:25 Track 214 took 5.33 seconds to polish. 
+2017-10-11 11:58:57 Track 215 took 5.16 seconds to polish. 
+2017-10-11 11:59:13 Track 216 took 6.36 seconds to polish. 
+2017-10-11 11:59:31 Track 217 took 5.06 seconds to polish. 
+2017-10-11 12:43:28 Track 218 took 5.55 seconds to polish. 
+2017-10-11 12:43:45 Track 219 took 6.74 seconds to polish. 
+2017-10-11 12:44:01 Track 220 took 4.95 seconds to polish. 
+2017-10-11 12:44:30 Track 221 took 5.11 seconds to polish. 
+2017-10-11 12:44:51 Track 222 took 17.21 seconds to polish. 
+2017-10-11 12:44:58 Track 223 took 7.16 seconds to polish. 
+2017-10-11 12:45:25 Track 224 took 23.0 seconds to polish. 
+2017-10-11 12:45:50 Track 225 took 11.99 seconds to polish. 
+2017-10-11 12:45:55 Track 226 took 5.49 seconds to polish. 
+2017-10-11 12:46:01 Track 227 took 5.64 seconds to polish. 
+2017-10-11 12:46:32 Track 228 took 5.69 seconds to polish. 
+2017-10-11 12:47:01 Track 229 took 5.25 seconds to polish. 
+2017-10-11 12:47:11 Track 230 took 5.23 seconds to polish. 
+2017-10-11 12:47:50 Track 231 took 17.1 seconds to polish. 
+2017-10-11 12:47:57 Track 232 took 5.33 seconds to polish. 
+2017-10-11 12:48:29 Track 233 took 5.16 seconds to polish. 
+2017-10-11 12:49:04 Track 234 took 6.67 seconds to polish. 
+2017-10-11 12:49:38 Track 235 took 7.5 seconds to polish. 
+2017-10-11 12:50:27 Track 236 took 6.81 seconds to polish. 
+2017-10-11 12:50:54 Track 237 took 6.11 seconds to polish. 
+2017-10-11 12:51:31 Track 238 took 32.25 seconds to polish. 
+2017-10-11 12:51:37 Track 239 took 5.34 seconds to polish. 
+2017-10-11 12:51:56 Track 240 took 6.25 seconds to polish. 
+2017-10-11 12:52:24 Track 241 took 6.52 seconds to polish. 
+2017-10-11 12:52:37 Track 242 took 5.28 seconds to polish. 
+2017-10-11 12:52:55 Track 243 took 6.31 seconds to polish. 
+2017-10-11 12:53:21 Track 244 took 23.38 seconds to polish. 
+2017-10-11 12:53:34 Track 245 took 5.66 seconds to polish. 
+2017-10-11 12:53:51 Track 246 took 5.72 seconds to polish. 
+2017-10-11 12:54:11 Track 247 took 16.85 seconds to polish. 
+2017-10-11 12:54:17 Track 248 took 5.86 seconds to polish. 
+2017-10-11 12:54:54 Track 249 took 13.14 seconds to polish. 
+2017-10-11 12:55:18 Track 250 took 5.53 seconds to polish. 
+2017-10-11 12:55:50 Track 251 took 20.81 seconds to polish. 
+2017-10-11 12:55:57 Track 252 took 6.17 seconds to polish. 
+2017-10-11 12:56:04 Track 253 took 6.72 seconds to polish. 
+2017-10-11 12:56:27 Track 254 took 18.0 seconds to polish. 
+2017-10-11 12:56:32 Track 255 took 5.16 seconds to polish. 
+2017-10-11 12:56:52 Track 256 took 5.58 seconds to polish. 
+2017-10-11 12:57:10 Track 257 took 6.45 seconds to polish. 
+2017-10-11 12:57:36 Track 258 took 5.09 seconds to polish. 
+2017-10-11 12:57:47 Track 259 took 5.42 seconds to polish. 
+2017-10-11 12:58:06 Track 260 took 6.72 seconds to polish. 
+2017-10-11 12:58:10 Track 261 took 0.0 seconds to polish. 
+2017-10-11 12:58:18 Track 262 took 8.06 seconds to polish. 
+2017-10-11 12:58:34 Track 263 took 6.16 seconds to polish. 
+2017-10-11 12:58:46 Track 264 took 7.45 seconds to polish. 
+2017-10-11 12:59:03 Track 265 took 6.02 seconds to polish. 
+2017-10-11 13:00:38 Track 266 took 6.88 seconds to polish. 
+2017-10-11 13:00:49 Track 267 took 6.67 seconds to polish. 
+2017-10-11 13:01:06 Track 268 took 5.75 seconds to polish. 
+2017-10-11 13:01:50 Track 269 took 23.16 seconds to polish. 
+2017-10-11 13:02:06 Track 270 took 6.69 seconds to polish. 
+2017-10-11 13:02:35 Track 271 took 5.36 seconds to polish. 
+2017-10-11 13:02:54 Track 272 took 6.77 seconds to polish. 
+2017-10-11 13:03:02 Track 273 took 5.56 seconds to polish. 
+2017-10-11 13:03:21 Track 274 took 5.25 seconds to polish. 
+2017-10-11 13:04:27 Track 275 took 10.31 seconds to polish. 
+2017-10-11 13:04:34 Track 276 took 6.17 seconds to polish. 
+2017-10-11 13:04:39 Track 277 took 4.94 seconds to polish. 
+2017-10-11 13:05:16 Track 278 took 0.0 seconds to polish. 
+2017-10-11 13:05:21 Track 279 took 5.05 seconds to polish. 
+2017-10-11 13:05:51 Track 280 took 7.13 seconds to polish. 
+2017-10-11 13:06:00 Track 281 took 5.42 seconds to polish. 
+2017-10-11 13:06:17 Track 282 took 5.02 seconds to polish. 
+2017-10-11 13:06:46 Track 283 took 22.89 seconds to polish. 
+2017-10-11 13:07:22 Track 284 took 5.14 seconds to polish. 
+2017-10-11 13:08:55 Track 285 took 5.89 seconds to polish. 
+2017-10-11 13:09:10 Track 286 took 5.45 seconds to polish. 
+2017-10-11 13:09:28 Track 287 took 5.23 seconds to polish. 
+2017-10-11 13:09:57 Track 288 took 23.16 seconds to polish. 
+2017-10-11 13:10:25 Track 289 took 18.97 seconds to polish. 
+2017-10-11 13:10:30 Track 290 took 5.31 seconds to polish. 
+2017-10-11 13:10:53 Track 291 took 20.08 seconds to polish. 
+2017-10-11 13:11:26 Track 292 took 5.49 seconds to polish. 
+2017-10-11 13:11:41 Track 293 took 12.3 seconds to polish. 
+2017-10-11 13:11:47 Track 294 took 5.73 seconds to polish. 
+2017-10-11 13:11:53 Track 295 took 5.27 seconds to polish. 
+2017-10-11 13:12:38 Track 296 took 16.47 seconds to polish. 
+2017-10-11 13:12:45 Track 297 took 6.77 seconds to polish. 
+2017-10-11 13:12:54 Track 298 took 5.72 seconds to polish. 
+2017-10-11 13:13:44 Track 299 took 24.89 seconds to polish. 
+2017-10-11 13:13:54 Track 300 took 5.86 seconds to polish. 
+2017-10-11 13:14:11 Track 301 took 11.86 seconds to polish. 
+2017-10-11 13:14:26 Track 302 took 12.2 seconds to polish. 
+2017-10-11 13:15:44 Track 303 took 11.24 seconds to polish. 
+2017-10-11 13:15:57 Track 304 took 11.85 seconds to polish. 
+2017-10-11 13:16:30 Track 305 took 5.69 seconds to polish. 
+2017-10-11 13:16:45 Track 306 took 10.67 seconds to polish. 
+2017-10-11 13:16:51 Track 307 took 5.22 seconds to polish. 
+2017-10-11 13:16:57 Track 308 took 5.49 seconds to polish. 
+2017-10-11 13:17:10 Track 309 took 6.14 seconds to polish. 
+2017-10-11 13:17:15 Track 310 took 5.13 seconds to polish. 
+2017-10-11 13:17:25 Track 311 took 6.81 seconds to polish. 
+2017-10-11 13:18:20 Track 312 took 13.24 seconds to polish. 
+2017-10-11 13:18:29 Track 313 took 4.95 seconds to polish. 
+2017-10-11 13:19:00 Track 314 took 5.14 seconds to polish. 
+2017-10-11 13:19:12 Track 315 took 5.14 seconds to polish. 
+2017-10-11 13:20:02 Track 316 took 6.55 seconds to polish. 
+2017-10-11 13:20:32 Track 317 took 5.27 seconds to polish. 
+2017-10-11 13:21:01 Track 318 took 5.31 seconds to polish. 
+2017-10-11 13:21:29 Track 319 took 5.22 seconds to polish. 
+2017-10-11 13:21:45 Track 320 took 11.6 seconds to polish. 
+2017-10-11 13:21:51 Track 321 took 5.38 seconds to polish. 
+2017-10-11 13:21:57 Track 322 took 5.74 seconds to polish. 
+2017-10-11 13:22:12 Track 323 took 5.72 seconds to polish. 
+2017-10-11 13:22:19 Track 324 took 6.91 seconds to polish. 
+2017-10-11 13:22:28 Track 325 took 7.38 seconds to polish. 
+2017-10-11 13:23:17 Track 326 took 5.11 seconds to polish. 
+2017-10-11 13:23:29 Track 327 took 5.61 seconds to polish. 
+2017-10-11 13:23:47 Track 328 took 5.52 seconds to polish. 
+2017-10-11 13:24:04 Track 329 took 12.88 seconds to polish. 
+2017-10-11 13:24:10 Track 330 took 5.13 seconds to polish. 
+2017-10-11 13:24:15 Track 331 took 5.16 seconds to polish. 
+2017-10-11 13:24:49 Track 332 took 29.89 seconds to polish. 
+2017-10-11 13:24:55 Track 333 took 6.19 seconds to polish. 
+2017-10-11 13:25:12 Track 334 took 5.41 seconds to polish. 
+2017-10-11 13:30:37 Track 335 took 5.08 seconds to polish. 
+2017-10-11 13:31:08 Track 336 took 6.24 seconds to polish. 
+2017-10-11 13:33:46 Track 337 took 7.14 seconds to polish. 
+2017-10-11 13:36:09 Track 338 took 5.19 seconds to polish. 
+2017-10-11 13:37:05 Track 339 took 0.0 seconds to polish. 
+2017-10-11 13:37:10 Track 340 took 5.06 seconds to polish. 
+2017-10-11 13:37:22 Track 341 took 5.52 seconds to polish. 
+2017-10-11 13:37:40 Track 342 took 5.38 seconds to polish. 
+2017-10-11 13:38:32 Track 343 took 20.39 seconds to polish. 
+2017-10-11 13:38:50 Track 344 took 6.94 seconds to polish. 
+2017-10-11 13:39:41 Track 345 took 45.05 seconds to polish. 
+2017-10-11 13:39:54 Track 346 took 6.59 seconds to polish. 
+2017-10-11 13:40:20 Track 347 took 5.27 seconds to polish. 
+2017-10-11 13:40:48 Track 348 took 5.16 seconds to polish. 
+2017-10-11 13:41:04 Track 349 took 10.83 seconds to polish. 
+2017-10-11 13:41:09 Track 350 took 5.02 seconds to polish. 
+2017-10-11 13:41:15 Track 351 took 5.31 seconds to polish. 
+2017-10-11 13:41:49 Track 352 took 8.06 seconds to polish. 
+2017-10-11 13:42:19 Track 353 took 10.6 seconds to polish. 
+2017-10-11 13:42:43 Track 354 took 6.03 seconds to polish. 
+2017-10-11 13:43:20 Track 355 took 11.5 seconds to polish. 
+2017-10-11 13:43:57 Track 356 took 33.74 seconds to polish. 
+2017-10-11 13:44:17 Track 357 took 11.94 seconds to polish. 
+2017-10-11 13:44:30 Track 358 took 6.05 seconds to polish. 
+2017-10-11 13:44:45 Track 359 took 7.72 seconds to polish. 
+2017-10-11 13:44:54 Track 360 took 0.0 seconds to polish. 
+2017-10-11 13:44:59 Track 361 took 5.28 seconds to polish. 
+2017-10-11 13:45:35 Track 362 took 7.47 seconds to polish. 
+2017-10-11 13:45:44 Track 363 took 5.41 seconds to polish. 
+2017-10-11 13:46:01 Track 364 took 5.0 seconds to polish. 
+2017-10-11 13:46:30 Track 365 took 5.08 seconds to polish. 
+2017-10-11 13:47:04 Track 366 took 6.22 seconds to polish. 
+2017-10-11 13:47:31 Track 367 took 5.45 seconds to polish. 
+2017-10-11 13:47:59 Track 368 took 5.44 seconds to polish. 
+2017-10-11 13:48:15 Track 369 took 10.78 seconds to polish. 
+2017-10-11 13:48:22 Track 370 took 5.39 seconds to polish. 
+2017-10-11 13:48:27 Track 371 took 5.44 seconds to polish. 
+2017-10-11 13:48:38 Track 372 took 5.59 seconds to polish. 
+2017-10-11 13:48:45 Track 373 took 7.05 seconds to polish. 
+2017-10-11 13:48:55 Track 374 took 5.42 seconds to polish. 
+2017-10-11 13:49:26 Track 375 took 6.14 seconds to polish. 
+2017-10-11 13:49:56 Track 376 took 5.28 seconds to polish. 
+2017-10-11 13:50:10 Track 377 took 5.11 seconds to polish. 
+2017-10-11 13:50:28 Track 378 took 6.0 seconds to polish. 
+2017-10-11 13:50:44 Track 379 took 11.75 seconds to polish. 
+2017-10-11 13:50:55 Track 380 took 5.27 seconds to polish. 
+2017-10-11 13:51:27 Track 381 took 6.7 seconds to polish. 
+2017-10-11 13:51:42 Track 382 took 12.05 seconds to polish. 
+2017-10-11 13:51:50 Track 383 took 6.13 seconds to polish. 
+2017-10-11 13:52:10 Track 384 took 10.81 seconds to polish. 
+2017-10-11 13:52:15 Track 385 took 5.13 seconds to polish. 
+2017-10-11 13:52:23 Track 386 took 6.39 seconds to polish. 
+2017-10-11 13:52:34 Track 387 took 5.7 seconds to polish. 
+2017-10-11 13:52:39 Track 388 took 5.25 seconds to polish. 
+2017-10-11 13:52:48 Track 389 took 6.03 seconds to polish. 
+2017-10-11 13:53:07 Track 390 took 10.02 seconds to polish. 
+2017-10-11 13:53:12 Track 391 took 5.11 seconds to polish. 
+2017-10-11 13:53:20 Track 392 took 6.03 seconds to polish. 
+2017-10-11 13:53:38 Track 393 took 11.14 seconds to polish. 
+2017-10-11 13:53:49 Track 394 took 8.16 seconds to polish. 
+2017-10-11 13:54:27 Track 395 took 14.86 seconds to polish. 
+2017-10-11 13:54:35 Track 396 took 5.47 seconds to polish. 
+2017-10-11 13:54:52 Track 397 took 10.41 seconds to polish. 
+2017-10-11 13:54:57 Track 398 took 5.19 seconds to polish. 
+2017-10-11 13:55:02 Track 399 took 2.89 seconds to polish. 
+2017-10-11 13:55:21 Track 400 took 18.5 seconds to polish. 
+2017-10-11 13:56:11 Track 401 took 2.91 seconds to polish. 
+2017-10-11 13:56:14 Track 402 took 3.3 seconds to polish. 
+2017-10-11 13:56:20 Track 403 took 2.92 seconds to polish. 
+2017-10-11 13:56:33 Track 404 took 4.05 seconds to polish. 
+2017-10-11 13:56:54 Track 405 took 4.03 seconds to polish. 
+2017-10-11 13:56:58 Track 406 took 2.92 seconds to polish. 
+2017-10-11 13:57:01 Track 407 took 2.98 seconds to polish. 
+2017-10-11 13:57:04 Track 408 took 2.88 seconds to polish. 
+2017-10-11 13:57:11 Track 409 took 2.92 seconds to polish. 
+2017-10-11 13:57:28 Track 410 took 8.6 seconds to polish. 
+2017-10-11 13:57:35 Track 411 took 2.91 seconds to polish. 
+2017-10-11 13:57:40 Track 412 took 2.86 seconds to polish. 
+2017-10-11 13:57:54 Track 413 took 6.03 seconds to polish. 
+2017-10-11 13:57:57 Track 414 took 3.06 seconds to polish. 
+2017-10-11 13:58:11 Track 415 took 5.75 seconds to polish. 
+2017-10-11 13:58:21 Track 416 took 2.86 seconds to polish. 
+2017-10-11 13:58:24 Track 417 took 3.0 seconds to polish. 
+2017-10-11 13:58:28 Track 418 took 3.03 seconds to polish. 
+2017-10-11 13:58:32 Track 419 took 2.91 seconds to polish. 
+2017-10-11 13:58:39 Track 420 took 2.84 seconds to polish. 
+2017-10-11 13:58:57 Track 421 took 9.72 seconds to polish. 
+2017-10-11 13:59:00 Track 422 took 2.89 seconds to polish. 
+2017-10-11 13:59:10 Track 423 took 6.0 seconds to polish. 
+2017-10-11 13:59:19 Track 424 took 2.86 seconds to polish. 
+2017-10-11 13:59:26 Track 425 took 6.44 seconds to polish. 
+2017-10-11 13:59:34 Track 426 took 3.66 seconds to polish. 
+2017-10-11 13:59:37 Track 427 took 2.91 seconds to polish. 
+2017-10-11 13:59:48 Track 428 took 3.06 seconds to polish. 
+2017-10-11 13:59:54 Track 429 took 5.83 seconds to polish. 
+2017-10-11 13:59:58 Track 430 took 3.05 seconds to polish. 
+2017-10-11 14:00:02 Track 431 took 3.13 seconds to polish. 
+2017-10-11 14:00:07 Track 432 took 2.98 seconds to polish. 
+2017-10-11 14:00:24 Track 433 took 3.91 seconds to polish. 
+2017-10-11 14:00:27 Track 434 took 2.88 seconds to polish. 
+2017-10-11 14:00:34 Track 435 took 3.2 seconds to polish. 
+2017-10-11 14:00:41 Track 436 took 2.89 seconds to polish. 
+2017-10-11 14:00:53 Track 437 took 3.69 seconds to polish. 
+2017-10-11 14:01:03 Track 438 took 8.72 seconds to polish. 
+2017-10-11 14:01:11 Track 439 took 2.86 seconds to polish. 
+2017-10-11 14:01:27 Track 440 took 8.92 seconds to polish. 
+2017-10-11 14:01:39 Track 441 took 2.91 seconds to polish. 
+2017-10-11 14:01:52 Track 442 took 6.09 seconds to polish. 
+2017-10-11 14:01:55 Track 443 took 2.89 seconds to polish. 
+2017-10-11 14:02:07 Track 444 took 3.13 seconds to polish. 
+2017-10-11 14:02:31 Track 445 took 8.7 seconds to polish. 
+2017-10-11 14:02:43 Track 446 took 2.86 seconds to polish. 
+2017-10-11 14:02:54 Track 447 took 2.94 seconds to polish. 
+2017-10-11 14:03:00 Track 448 took 5.8 seconds to polish. 
+2017-10-11 14:03:12 Track 449 took 2.98 seconds to polish. 
+2017-10-11 14:03:24 Track 450 took 3.67 seconds to polish. 
+2017-10-11 14:03:27 Track 451 took 2.88 seconds to polish. 
+2017-10-11 14:03:30 Track 452 took 2.84 seconds to polish. 
+2017-10-11 14:03:42 Track 453 took 2.86 seconds to polish. 
+2017-10-11 14:03:52 Track 454 took 2.92 seconds to polish. 
+2017-10-11 14:03:58 Track 455 took 5.73 seconds to polish. 
+2017-10-11 14:04:01 Track 456 took 3.03 seconds to polish. 
+2017-10-11 14:04:08 Track 457 took 3.0 seconds to polish. 
+2017-10-11 14:04:20 Track 458 took 2.92 seconds to polish. 
+2017-10-11 14:04:21 Track 459 took 0.0 seconds to polish. 
+2017-10-11 14:04:24 Track 460 took 3.53 seconds to polish. 
+2017-10-11 14:04:28 Track 461 took 3.19 seconds to polish. 
+2017-10-11 14:04:38 Track 462 took 2.89 seconds to polish. 
+2017-10-11 14:04:50 Track 463 took 2.91 seconds to polish. 
+2017-10-11 14:04:56 Track 464 took 6.11 seconds to polish. 
+2017-10-11 14:05:10 Track 465 took 3.56 seconds to polish. 
+2017-10-11 14:05:25 Track 466 took 9.3 seconds to polish. 
+2017-10-11 14:05:37 Track 467 took 2.88 seconds to polish. 
+2017-10-11 14:05:48 Track 468 took 2.84 seconds to polish. 
+2017-10-11 14:05:54 Track 469 took 5.72 seconds to polish. 
+2017-10-11 14:06:07 Track 470 took 3.05 seconds to polish. 
+2017-10-11 14:06:17 Track 471 took 2.86 seconds to polish. 
+2017-10-11 14:06:23 Track 472 took 6.7 seconds to polish. 
+2017-10-11 14:06:27 Track 473 took 2.89 seconds to polish. 
+2017-10-11 14:06:35 Track 474 took 2.89 seconds to polish. 
+2017-10-11 14:06:45 Track 475 took 3.02 seconds to polish. 
+2017-10-11 14:06:51 Track 476 took 5.72 seconds to polish. 
+2017-10-11 14:07:03 Track 477 took 3.94 seconds to polish. 
+2017-10-11 14:07:17 Track 478 took 6.67 seconds to polish. 
+2017-10-11 14:07:33 Track 479 took 3.22 seconds to polish. 
+2017-10-11 14:07:39 Track 480 took 2.83 seconds to polish. 
+2017-10-11 14:08:01 Track 481 took 9.53 seconds to polish. 
+2017-10-11 14:08:15 Track 482 took 6.06 seconds to polish. 
+2017-10-11 14:08:25 Track 483 took 3.41 seconds to polish. 
+2017-10-11 14:08:29 Track 484 took 2.95 seconds to polish. 
+2017-10-11 14:08:33 Track 485 took 2.98 seconds to polish. 
+2017-10-11 14:08:42 Track 486 took 2.94 seconds to polish. 
+2017-10-11 14:08:46 Track 487 took 3.05 seconds to polish. 
+2017-10-11 14:09:07 Track 488 took 9.64 seconds to polish. 
+2017-10-11 14:09:11 Track 489 took 2.89 seconds to polish. 
+2017-10-11 14:09:14 Track 490 took 2.84 seconds to polish. 
+2017-10-11 14:09:20 Track 491 took 2.86 seconds to polish. 
+2017-10-11 14:09:30 Track 492 took 2.84 seconds to polish. 
+2017-10-11 14:09:36 Track 493 took 6.42 seconds to polish. 
+2017-10-11 14:09:39 Track 494 took 3.08 seconds to polish. 
+2017-10-11 14:09:48 Track 495 took 3.08 seconds to polish. 
+2017-10-11 14:10:17 Track 496 took 2.95 seconds to polish. 
+2017-10-11 14:10:27 Track 497 took 3.03 seconds to polish. 
+2017-10-11 14:10:30 Track 498 took 3.05 seconds to polish. 
+2017-10-11 14:10:33 Track 499 took 3.69 seconds to polish. 
+2017-10-11 14:10:40 Track 500 took 2.84 seconds to polish. 
+2017-10-11 14:10:45 Track 501 took 2.83 seconds to polish. 
+2017-10-11 14:11:14 Track 502 took 3.39 seconds to polish. 
+2017-10-11 14:11:25 Track 503 took 3.97 seconds to polish. 
+2017-10-11 14:11:28 Track 504 took 2.89 seconds to polish. 
+2017-10-11 14:11:31 Track 505 took 2.98 seconds to polish. 
+2017-10-11 14:11:35 Track 506 took 2.92 seconds to polish. 
+2017-10-11 14:11:39 Track 507 took 2.97 seconds to polish. 
+2017-10-11 14:11:44 Track 508 took 4.19 seconds to polish. 
+2017-10-11 14:11:57 Track 509 took 6.58 seconds to polish. 
+2017-10-11 14:12:00 Track 510 took 2.89 seconds to polish. 
+2017-10-11 14:12:04 Track 511 took 3.86 seconds to polish. 
+2017-10-11 14:12:12 Track 512 took 3.0 seconds to polish. 
+2017-10-11 14:12:25 Track 513 took 2.92 seconds to polish. 
+2017-10-11 14:12:31 Track 514 took 5.94 seconds to polish. 
+2017-10-11 14:12:44 Track 515 took 3.09 seconds to polish. 
+2017-10-11 14:13:02 Track 516 took 2.83 seconds to polish. 
+2017-10-11 14:13:15 Track 517 took 12.49 seconds to polish. 
+2017-10-11 14:13:18 Track 518 took 2.89 seconds to polish. 
+2017-10-11 14:13:21 Track 519 took 2.88 seconds to polish. 
+2017-10-11 14:14:01 Track 520 took 2.84 seconds to polish. 
+2017-10-11 14:37:51 Track 521 took 2.89 seconds to polish. 
+2017-10-11 14:38:24 Track 522 took 3.02 seconds to polish. 
+2017-10-11 14:38:55 Track 523 took 3.39 seconds to polish. 
+2017-10-11 14:39:34 Track 524 took 3.02 seconds to polish. 
+2017-10-11 14:40:02 Track 525 took 2.84 seconds to polish. 
+2017-10-11 14:40:31 Track 526 took 2.84 seconds to polish. 
+2017-10-11 14:41:00 Track 527 took 2.91 seconds to polish. 
+2017-10-11 14:41:12 Track 528 took 5.67 seconds to polish. 
+2017-10-11 14:41:15 Track 529 took 2.95 seconds to polish. 
+2017-10-11 14:41:27 Track 530 took 2.97 seconds to polish. 
+2017-10-11 14:41:56 Track 531 took 3.2 seconds to polish. 
+2017-10-11 14:42:05 Track 532 took 2.98 seconds to polish. 
+2017-10-11 14:42:11 Track 533 took 2.94 seconds to polish. 
+2017-10-11 14:42:15 Track 534 took 3.34 seconds to polish. 
+2017-10-11 14:42:24 Track 535 took 3.44 seconds to polish. 
+2017-10-11 14:42:52 Track 536 took 3.02 seconds to polish. 
+2017-10-11 14:43:21 Track 537 took 2.91 seconds to polish. 
+2017-10-11 14:43:35 Track 538 took 2.86 seconds to polish. 
+2017-10-11 14:43:41 Track 539 took 5.81 seconds to polish. 
+2017-10-11 14:43:45 Track 540 took 2.91 seconds to polish. 
+2017-10-11 14:43:54 Track 541 took 3.7 seconds to polish. 
+2017-10-11 14:44:05 Track 542 took 3.08 seconds to polish. 
+2017-10-11 14:44:08 Track 543 took 2.92 seconds to polish. 
+2017-10-11 14:44:15 Track 544 took 6.39 seconds to polish. 
+2017-10-11 14:44:26 Track 545 took 2.89 seconds to polish. 
+2017-10-11 14:45:01 Track 546 took 2.89 seconds to polish. 
+2017-10-11 14:45:32 Track 547 took 2.91 seconds to polish. 
+2017-10-11 14:45:47 Track 548 took 2.89 seconds to polish. 
+2017-10-11 14:46:18 Track 549 took 3.41 seconds to polish. 
+2017-10-11 14:46:46 Track 550 took 2.86 seconds to polish. 
+2017-10-11 14:47:14 Track 551 took 3.99 seconds to polish. 
+2017-10-11 14:47:43 Track 552 took 3.0 seconds to polish. 
+2017-10-11 14:47:53 Track 553 took 2.91 seconds to polish. 
+2017-10-11 14:48:00 Track 554 took 7.08 seconds to polish. 
+2017-10-11 14:48:11 Track 555 took 2.89 seconds to polish. 
+2017-10-11 14:48:40 Track 556 took 2.89 seconds to polish. 
+2017-10-11 14:49:08 Track 557 took 2.88 seconds to polish. 
+2017-10-11 14:49:25 Track 558 took 5.97 seconds to polish. 
+2017-10-11 14:49:40 Track 559 took 3.28 seconds to polish. 
+2017-10-11 15:09:20 Track 560 took 3.2 seconds to polish. 
+2017-10-11 15:09:46 Track 561 took 0.0 seconds to polish. 
+2017-10-11 15:09:49 Track 562 took 3.13 seconds to polish. 
+2017-10-11 15:10:20 Track 563 took 3.17 seconds to polish. 
+2017-10-11 15:10:56 Track 564 took 3.31 seconds to polish. 
+2017-10-11 15:11:08 Track 565 took 6.42 seconds to polish. 
+2017-10-11 15:11:22 Track 566 took 2.91 seconds to polish. 
+2017-10-11 15:11:34 Track 567 took 3.63 seconds to polish. 
+2017-10-11 15:11:37 Track 568 took 2.88 seconds to polish. 
+2017-10-11 15:11:40 Track 569 took 2.92 seconds to polish. 
+2017-10-11 15:11:52 Track 570 took 2.89 seconds to polish. 
+2017-10-11 15:12:22 Track 571 took 2.97 seconds to polish. 
+2017-10-11 15:12:50 Track 572 took 3.31 seconds to polish. 
+2017-10-11 15:13:04 Track 573 took 7.31 seconds to polish. 
+2017-10-11 15:13:18 Track 574 took 3.3 seconds to polish. 
+2017-10-11 15:13:52 Track 575 took 3.17 seconds to polish. 
+2017-10-11 15:14:02 Track 576 took 3.23 seconds to polish. 
+2017-10-11 15:14:05 Track 577 took 3.28 seconds to polish. 
+2017-10-11 15:14:09 Track 578 took 3.31 seconds to polish. 
+2017-10-11 15:14:21 Track 579 took 3.52 seconds to polish. 
+2017-10-11 15:14:50 Track 580 took 3.72 seconds to polish. 
+2017-10-11 15:15:19 Track 581 took 3.47 seconds to polish. 
+2017-10-11 15:15:28 Track 582 took 3.39 seconds to polish. 
+2017-10-11 15:15:32 Track 583 took 3.39 seconds to polish. 
+2017-10-11 15:15:47 Track 584 took 3.34 seconds to polish. 
+2017-10-11 15:15:57 Track 585 took 3.28 seconds to polish. 
+2017-10-11 15:16:02 Track 586 took 3.39 seconds to polish. 
+2017-10-11 15:16:16 Track 587 took 3.34 seconds to polish. 
+2017-10-11 15:16:30 Track 588 took 7.09 seconds to polish. 
+2017-10-11 15:16:45 Track 589 took 3.44 seconds to polish. 
+2017-10-11 15:17:16 Track 590 took 3.25 seconds to polish. 
+2017-10-11 15:17:45 Track 591 took 3.25 seconds to polish. 
+2017-10-11 15:17:55 Track 592 took 3.28 seconds to polish. 
+2017-10-11 15:17:59 Track 593 took 3.41 seconds to polish. 
+2017-10-11 15:18:14 Track 594 took 3.83 seconds to polish. 
+2017-10-11 15:18:25 Track 595 took 4.39 seconds to polish. 
+2017-10-11 15:18:25 Track 596 took 0.0 seconds to polish. 
+2017-10-11 15:18:29 Track 597 took 3.3 seconds to polish. 
+2017-10-11 15:18:32 Track 598 took 3.22 seconds to polish. 
+2017-10-11 15:19:12 Track 599 took 3.16 seconds to polish. 
+2017-10-11 15:19:41 Track 600 took 3.36 seconds to polish. 
+2017-10-11 15:20:10 Track 601 took 3.45 seconds to polish. 
+2017-10-11 15:20:57 Track 602 took 19.85 seconds to polish. 
+2017-10-11 15:21:21 Track 603 took 3.58 seconds to polish. 
+2017-10-11 15:21:30 Track 604 took 3.42 seconds to polish. 
+2017-10-11 15:21:35 Track 605 took 4.66 seconds to polish. 
+2017-10-11 15:21:39 Track 606 took 3.69 seconds to polish. 
+2017-10-11 15:21:48 Track 607 took 3.44 seconds to polish. 
+2017-10-11 15:22:20 Track 608 took 3.38 seconds to polish. 
+2017-10-11 15:22:37 Track 609 took 3.39 seconds to polish. 
+2017-10-11 15:22:40 Track 610 took 3.5 seconds to polish. 
+2017-10-11 15:22:45 Track 611 took 4.75 seconds to polish. 
+2017-10-11 15:22:56 Track 612 took 3.45 seconds to polish. 
+2017-10-11 15:23:25 Track 613 took 3.47 seconds to polish. 
+2017-10-11 15:23:39 Track 614 took 6.89 seconds to polish. 
+2017-10-11 15:23:55 Track 615 took 4.86 seconds to polish. 
+2017-10-11 15:24:34 Track 616 took 4.33 seconds to polish. 
+2017-10-11 15:25:02 Track 617 took 3.61 seconds to polish. 
+2017-10-11 15:25:11 Track 618 took 3.63 seconds to polish. 
+2017-10-11 15:25:15 Track 619 took 3.89 seconds to polish. 
+2017-10-11 15:25:29 Track 620 took 3.7 seconds to polish. 
+2017-10-11 15:26:24 Track 621 took 11.7 seconds to polish. 
+2017-10-11 15:28:20 Track 622 took 3.63 seconds to polish. 
+2017-10-11 15:28:49 Track 623 took 3.52 seconds to polish. 
+2017-10-11 15:29:17 Track 624 took 3.61 seconds to polish. 
+2017-10-11 15:29:49 Track 625 took 4.45 seconds to polish. 
+2017-10-11 15:30:05 Track 626 took 3.99 seconds to polish. 
+2017-10-11 15:30:09 Track 627 took 3.58 seconds to polish. 
+2017-10-11 15:30:25 Track 628 took 3.95 seconds to polish. 
+2017-10-11 15:30:35 Track 629 took 3.61 seconds to polish. 
+2017-10-11 15:30:39 Track 630 took 3.47 seconds to polish. 
+2017-10-11 15:30:56 Track 631 took 3.58 seconds to polish. 
+2017-10-11 15:31:12 Track 632 took 3.52 seconds to polish. 
+2017-10-11 15:31:18 Track 633 took 3.61 seconds to polish. 
+2017-10-11 15:31:30 Track 634 took 3.5 seconds to polish. 
+2017-10-11 15:31:44 Track 635 took 6.05 seconds to polish. 
+2017-10-11 15:31:47 Track 636 took 3.67 seconds to polish. 
+2017-10-11 15:32:00 Track 637 took 3.48 seconds to polish. 
+2017-10-11 15:32:53 Track 638 took 3.45 seconds to polish. 
+2017-10-11 15:33:26 Track 639 took 3.64 seconds to polish. 
+2017-10-11 15:33:40 Track 640 took 6.81 seconds to polish. 
+2017-10-11 15:33:55 Track 641 took 4.63 seconds to polish. 
+2017-10-11 15:34:44 Track 642 took 23.16 seconds to polish. 
+2017-10-11 15:34:52 Track 643 took 4.03 seconds to polish. 
+2017-10-11 15:35:28 Track 644 took 8.83 seconds to polish. 
+2017-10-11 15:35:32 Track 645 took 3.61 seconds to polish. 
+2017-10-11 15:35:41 Track 646 took 3.41 seconds to polish. 
+2017-10-11 15:36:17 Track 647 took 9.81 seconds to polish. 
+2017-10-11 15:36:38 Track 648 took 3.52 seconds to polish. 
+2017-10-11 15:36:51 Track 649 took 3.55 seconds to polish. 
+2017-10-11 15:37:00 Track 650 took 7.22 seconds to polish. 
+2017-10-11 15:37:09 Track 651 took 3.44 seconds to polish. 
+2017-10-11 15:37:20 Track 652 took 3.42 seconds to polish. 
+2017-10-11 15:37:25 Track 653 took 3.86 seconds to polish. 
+2017-10-11 15:37:29 Track 654 took 3.47 seconds to polish. 
+2017-10-11 15:37:39 Track 655 took 3.8 seconds to polish. 
+2017-10-11 15:38:32 Track 656 took 3.48 seconds to polish. 
+2017-10-11 15:39:01 Track 657 took 3.52 seconds to polish. 
+2017-10-11 15:39:35 Track 658 took 23.66 seconds to polish. 
+2017-10-11 15:39:47 Track 659 took 7.81 seconds to polish. 
+2017-10-11 15:40:02 Track 660 took 3.8 seconds to polish. 
+2017-10-11 15:40:34 Track 661 took 4.66 seconds to polish. 
+2017-10-11 15:41:42 Track 662 took 23.16 seconds to polish. 
+2017-10-11 15:41:49 Track 663 took 3.47 seconds to polish. 
+2017-10-11 15:42:19 Track 664 took 3.84 seconds to polish. 
+2017-10-11 15:42:51 Track 665 took 3.55 seconds to polish. 
+2017-10-11 15:43:21 Track 666 took 4.02 seconds to polish. 
+2017-10-11 15:43:50 Track 667 took 3.38 seconds to polish. 
+2017-10-11 15:43:58 Track 668 took 3.41 seconds to polish. 
+2017-10-11 15:44:05 Track 669 took 4.17 seconds to polish. 
+2017-10-11 15:44:17 Track 670 took 3.58 seconds to polish. 
+2017-10-11 15:45:05 Track 671 took 23.16 seconds to polish. 
+2017-10-11 15:45:10 Track 672 took 3.41 seconds to polish. 
+2017-10-11 15:45:37 Track 673 took 3.42 seconds to polish. 
+2017-10-11 15:45:54 Track 674 took 4.58 seconds to polish. 
+2017-10-11 15:45:58 Track 675 took 3.48 seconds to polish. 
+2017-10-11 15:46:12 Track 676 took 3.42 seconds to polish. 
+2017-10-13 09:54:13 Track 677 took 12.19 seconds to polish. 
+2017-10-13 09:57:55 Track 678 took 5.89 seconds to polish. 
+2017-10-13 09:58:04 Track 679 took 6.63 seconds to polish. 
+2017-10-13 10:03:47 Track 680 took 60.52 seconds to polish. 
+2017-10-13 10:06:20 Track 681 took 37.8 seconds to polish. 
+2017-10-13 10:08:35 Track 682 took 127.31 seconds to polish. 
+2017-10-13 10:42:33 Track 683 took 5.64 seconds to polish. 
+2017-10-13 10:52:02 Track 684 took 22.6 seconds to polish. 
+2017-10-13 10:52:37 Track 685 took 26.66 seconds to polish. 
+2017-10-13 10:53:07 Track 686 took 25.94 seconds to polish. 
+2017-10-13 10:53:16 Track 687 took 4.99 seconds to polish. 
+2017-10-13 10:53:51 Track 688 took 24.05 seconds to polish. 
+2017-10-13 10:54:55 Track 689 took 22.25 seconds to polish. 
+2017-10-13 10:56:37 Track 690 took 20.8 seconds to polish. 
+2017-10-13 10:56:45 Track 691 took 5.69 seconds to polish. 
+2017-10-13 10:57:15 Track 692 took 21.27 seconds to polish. 
+2017-10-13 10:57:39 Track 693 took 5.7 seconds to polish. 
+2017-10-13 10:59:05 Track 694 took 22.67 seconds to polish. 
+2017-10-13 10:59:29 Track 695 took 21.88 seconds to polish. 
+2017-10-13 10:59:54 Track 696 took 20.0 seconds to polish. 
+2017-10-13 11:00:54 Track 697 took 51.63 seconds to polish. 
+2017-10-13 11:01:21 Track 698 took 21.17 seconds to polish. 
+2017-10-13 11:01:53 Track 699 took 23.07 seconds to polish. 
+2017-10-13 11:02:21 Track 700 took 23.16 seconds to polish. 
+2017-10-13 11:02:46 Track 701 took 22.39 seconds to polish. 
+2017-10-13 11:03:12 Track 702 took 21.36 seconds to polish. 
+2017-10-13 11:03:39 Track 703 took 21.13 seconds to polish. 
+2017-10-13 11:04:05 Track 704 took 21.19 seconds to polish. 
+2017-10-13 11:04:29 Track 705 took 22.39 seconds to polish. 
+2017-10-13 11:04:57 Track 706 took 23.44 seconds to polish. 
+2017-10-13 11:05:22 Track 707 took 21.16 seconds to polish. 
+2017-10-13 11:05:51 Track 708 took 23.3 seconds to polish. 
+2017-10-13 11:06:17 Track 709 took 21.33 seconds to polish. 
+2017-10-13 11:06:37 Track 710 took 20.16 seconds to polish. 
+2017-10-13 11:07:07 Track 711 took 22.96 seconds to polish. 
+2017-10-13 11:07:32 Track 712 took 21.58 seconds to polish. 
+2017-10-13 11:07:58 Track 713 took 21.08 seconds to polish. 
+2017-10-13 11:08:26 Track 714 took 22.52 seconds to polish. 
+2017-10-13 11:08:51 Track 715 took 21.44 seconds to polish. 
+2017-10-13 11:09:17 Track 716 took 21.14 seconds to polish. 
+2017-10-13 11:10:07 Track 717 took 24.47 seconds to polish. 
+2017-10-13 11:10:35 Track 718 took 23.75 seconds to polish. 
+2017-10-13 11:10:59 Track 719 took 21.57 seconds to polish. 
+2017-10-13 11:11:27 Track 720 took 23.02 seconds to polish. 
+2017-10-13 11:12:20 Track 721 took 49.08 seconds to polish. 
+2017-10-13 11:13:34 Track 722 took 20.86 seconds to polish. 
+2017-10-13 11:14:00 Track 723 took 19.27 seconds to polish. 
+2017-10-13 11:14:26 Track 724 took 19.32 seconds to polish. 
+2017-10-13 11:14:53 Track 725 took 20.41 seconds to polish. 
+2017-10-13 11:15:18 Track 726 took 19.1 seconds to polish. 
+2017-10-13 11:15:50 Track 727 took 25.14 seconds to polish. 
+2017-10-13 11:16:11 Track 728 took 19.3 seconds to polish. 
+2017-10-13 11:16:47 Track 729 took 25.18 seconds to polish. 
+2017-10-13 11:17:08 Track 730 took 19.71 seconds to polish. 
+2017-10-13 11:17:34 Track 731 took 19.72 seconds to polish. 
+2017-10-13 11:18:02 Track 732 took 20.99 seconds to polish. 
+2017-10-13 11:18:28 Track 733 took 19.3 seconds to polish. 
+2017-10-13 11:18:56 Track 734 took 20.8 seconds to polish. 
+2017-10-13 11:19:21 Track 735 took 19.44 seconds to polish. 
+2017-10-13 11:19:48 Track 736 took 20.6 seconds to polish. 
+2017-10-13 11:20:15 Track 737 took 21.74 seconds to polish. 
+2017-10-13 11:20:39 Track 738 took 20.42 seconds to polish. 
+2017-10-13 11:21:05 Track 739 took 19.36 seconds to polish. 
+2017-10-13 11:21:32 Track 740 took 20.49 seconds to polish. 
+2017-10-13 11:21:57 Track 741 took 19.17 seconds to polish. 
+2017-10-13 11:22:26 Track 742 took 21.16 seconds to polish. 
+2017-10-13 11:22:53 Track 743 took 20.91 seconds to polish. 
+2017-10-13 11:23:21 Track 744 took 21.06 seconds to polish. 
+2017-10-13 11:24:08 Track 745 took 42.3 seconds to polish. 
+2017-10-13 11:24:35 Track 746 took 21.74 seconds to polish. 
+2017-10-13 11:24:59 Track 747 took 19.75 seconds to polish. 
+2017-10-13 11:25:26 Track 748 took 19.97 seconds to polish. 
+Track log started at 2017-10-13 19:20:39
+2017-10-16 11:42:42 Track 2 took 20.27 seconds to polish. 
+2017-10-16 11:43:19 Track 3 took 24.14 seconds to polish. 
+2017-10-17 13:39:07 Track 4 took 93343.9 seconds to polish. 
+2017-10-17 13:49:16 Track 5 took 22.46 seconds to polish. 
+2017-10-17 13:54:36 Track 6 took 21.33 seconds to polish. 
+2017-10-17 13:55:11 Track 7 took 22.02 seconds to polish. 
+2017-10-17 13:55:43 Track 8 took 22.33 seconds to polish. 
+2017-10-17 13:56:15 Track 9 took 21.0 seconds to polish. 
+2017-10-17 13:57:03 Track 10 took 23.13 seconds to polish. 
+2017-10-17 13:57:29 Track 11 took 21.6 seconds to polish. 
+2017-10-17 13:58:01 Track 12 took 23.82 seconds to polish. 
+2017-10-17 13:58:30 Track 13 took 22.13 seconds to polish. 
+2017-10-17 13:59:03 Track 14 took 22.0 seconds to polish. 
+2017-10-17 13:59:34 Track 15 took 25.07 seconds to polish. 
+2017-10-17 14:01:18 Track 16 took 50.12 seconds to polish. 
+Track log started at 2017-10-23 12:02:15
